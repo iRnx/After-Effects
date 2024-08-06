@@ -1,4 +1,3 @@
-Enviromment
 
 ## Introdução ao Element 3D
 <p>1 - Iniciar uma composição solid, com nome 3D (pois essa composição é em 3D, facilita a organização)</p>
